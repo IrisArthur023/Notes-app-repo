@@ -1,0 +1,7 @@
+{
+  "name": "Collaborative Word Processor",
+  "description": "Real-time collaborative word processor with Python backend, Markdown formatting, cloud sync, offline editing, RBAC, and automated version history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
